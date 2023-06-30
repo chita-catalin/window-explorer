@@ -1,0 +1,20 @@
+.ant-collapse-content {
+  background-color: transparent !important;
+}
+
+.ant-card .ant-card-body {
+  padding: 5px !important;
+  display: contents;
+}
+
+.ant-collapse-item .ant-collapse-content {
+  transition: none !important;
+}
+
+.ant-collapse-item .ant-collapse-header {
+  transition: none !important;
+}
+
+.ant-collapse-content-box {
+  transition: none !important;
+}
